@@ -1,2 +1,1 @@
-# developer
-HELLO EVERYONE
+Hi! I’m Zain Ali, a passionate full-stack developer who loves building fast, modern, and scalable web applications. I work with React, WordPress, and Core PHP, delivering clean code, smooth UI/UX, and high-performance web solutions.
