@@ -1,68 +1,58 @@
-Hi! I’m Zain Ali, a passionate full-stack developer who loves building fast, modern, and scalable web applications. I work with React, WordPress, and Core PHP, delivering clean code, smooth UI/UX, and high-performance web solutions.
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:7F00FF,100:FF00FF&height=220&section=header&text=Zain%20Ali&fontSize=45&fontColor=ffffff"/>
 
-🚀 Tech Stack
-Frontend
+# 👋 Hi, I'm **Zain Ali**
+### 🚀 Full-Stack Developer | React • WordPress • Core PHP
 
-⚛️ React
+I build **fast**, **clean**, and **scalable** digital experiences.  
+From custom React interfaces to WordPress solutions and Core PHP backends —  
+I turn ideas into modern, reliable, production-ready applications.
 
-HTML5 / CSS3 / JavaScript (ES6+)
+---
 
-Tailwind / Bootstrap
+# 🌟 **About Me**
+- 💻 Full-Stack Developer with real-world experience  
+- ⚛️ Builds efficient & reusable React components  
+- 🌐 Creates custom WordPress sites, themes & plugins  
+- 🐘 Develops backend systems with Core PHP + MySQL  
+- 🎨 Loves clean UI/UX & responsive design  
+- 📈 Always learning, improving, and exploring new tech  
 
-Responsive UI/UX
+---
 
-Backend
+# 🛠 **Tech Toolbox**
 
-Core PHP
+### **Frontend**
+- React (Hooks, State, Routing)
+- JavaScript ES6+
+- HTML5 / CSS3
+- TailwindCSS, Bootstrap
 
-MySQL
+### **Backend**
+- Core PHP  
+- MySQL  
+- REST APIs  
 
-REST APIs
+### **WordPress**
+- Custom Themes  
+- Custom Plugins  
+- Elementor / Gutenberg  
+- Performance Optimization  
 
-WordPress Theme & Plugin Development
+### **Tools**
+- Git, GitHub  
+- VS Code  
+- cPanel / Hosting  
+- Figma  
 
-CMS & Tools
+---
 
-WordPress (Elementor, Custom Themes, Custom Plugins)
-
-Git & GitHub
-
-cPanel / Hosting / Deployment
-
-🧩 What I Do
-
-Create dynamic React web apps
-
-Build custom WordPress websites
-
-Develop WordPress themes & plugins
-
-Fix bugs, optimize performance, and improve UI/UX
-
-Convert Figma / PSD to fully functional websites
-
-Build secure, fast backend logic in Core PHP
-
-📂 Featured Projects
-
-React Web Apps — custom dashboards, UI components, dynamic API-based apps
-
-WordPress Sites — business websites, landing pages, eCommerce
-
-Custom PHP Projects — portals, admin panels, backend systems
-
-(You can add links later.)
-
-📬 Contact Me
-
-If you'd like to collaborate or have a project idea, feel free to reach out!
-
-Email: your-email
-
-LinkedIn: your-profile
-
-Portfolio: your-website
-
-⭐ Support
-
-If you find my work helpful, consider giving a ⭐ to my repositories!
+# ⚡ **Developer Preview**
+```js
+const developer = {
+  name: "Zain Ali",
+  role: "Full-Stack Dev",
+  skills: ["React", "WordPress", "Core PHP", "MySQL"],
+  mission: "Build scalable, clean and modern web apps",
+  currentlyWorkingOn: "High-performance UI components & PHP systems",
+};
