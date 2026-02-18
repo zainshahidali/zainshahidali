@@ -5,15 +5,14 @@
 </p>
 
 <p align="center">
-  <b>Full-Stack Developer | React • WordPress • Core PHP</b>
+  <b>Full-Stack Web Developer | WordPress, React.js & Core PHP | Software Engineer</b>
 </p>
 
 ---
 
 ## 🧑‍💻 **About Me**
 
-I'm a passionate developer who loves building clean, fast, and scalable digital experiences.  
-I work with **React**, **WordPress**, and **Core PHP**, and I enjoy turning ideas into real-world products.
+I'm Zain Ali, a dedicated Full Stack Developer with three years of hands-on experience in building and maintaining web applications. My expertise spans across modern frontend frameworks like React, robust backend development with CorePHP, and versatile content management using WordPress.
 
 ---
 
