@@ -1,83 +1,69 @@
 <div align="center">
-  <p align="center">🚀 <i>Crafting high-performance web experiences with precision.</i></p>
-  
-  <h1>Hey there! I'm Zain Ali</h1>
-  
-  <p><b>Senior Full-Stack Developer • WordPress Architect • Frontend Engineer</b></p>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/6+%20Years%20Expertise-2563EB?style=for-the-badge" alt="Experience">
-    <img src="https://img.shields.io/badge/100+%20Sites%20Delivered-16A34A?style=for-the-badge" alt="Websites Built">
-    <img src="https://img.shields.io/badge/Core%20Web%20Vitals%20Optimized-EA580C?style=for-the-badge" alt="Performance Focus">
+  <p align="center" style="letter-spacing: 3px; font-size: 11px; color: #71717a; text-transform: uppercase; margin-bottom: 0;">
+    Engineering High-Performance Web Architectures
   </p>
+  
+  <h1 align="center" style="font-size: 32px; font-weight: 800; margin-top: 5px; margin-bottom: 20px;">
+    Zain Ali
+  </h1>
+  
+  <p align="center" style="font-size: 15px; color: #3f3f46; margin-top: -10px;">
+    <b>Senior Full-Stack Developer</b> &nbsp;&bull;&nbsp; <b>WordPress Architect</b> &nbsp;&bull;&nbsp; <b>Frontend Engineer</b>
+  </p>
+
+  <p align="center" style="margin-top: 25px; margin-bottom: 35px;">
+    <a href="#-the-tech-stack"><img src="https://img.shields.io/badge/6+%20Years%20Experience-09090b?style=flat-square" alt="Experience"></a>
+    <a href="#-the-tech-stack"><img src="https://img.shields.io/badge/100+%20Engagements%20Delivered-09090b?style=flat-square" alt="Deliveries"></a>
+    <a href="#-the-tech-stack"><img src="https://img.shields.io/badge/Core%20Web%20Vitals%20Optimized-09090b?style=flat-square" alt="Performance"></a>
+  </p>
+
 </div>
 
-<br />
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550" alt="coding gif" style="border-radius: 8px;">
+## 🧑‍💻 Executive Summary
+
+I am a results-driven **Senior Full-Stack Web Developer** specializing in scaling web ecosystems, building bespoke WordPress frameworks, and developing modern decoupled JavaScript applications. 
+
+With over six years of professional engineering experience, my expertise lies at the intersection of robust backend logic and deeply optimized user interfaces. I engineer web systems with a performance-first approach—mitigating critical rendering paths, mastering Core Web Vitals ($LCP$ / $FCP$), implementing structural technical SEO blueprints, and deploying secure, automated DevOps workflows.
+
+---
+
+## 🚀 Specialized Tech Stack
+
+### 🧠 Modern Frontend Architecture
+* **Frameworks & Libraries:** React.js, Next.js (SSR / SSG), JavaScript (ES6+)
+* **UI Engineering:** TailwindCSS, Bootstrap, Semantic HTML5 layouts, CSS3 Grid/Flexbox
+* **Core Web Vitals:** Mobile execution speed audits, Largest Contentful Paint remediation, structural accessibility ($H_1$-$H_3$ processing)
+
+### ⚙️ Backend & CMS Engineering
+* **Server-Side Development:** Core PHP, MySQL Database Architecture, RESTful API Integration
+* **WordPress Ecosystem:** Bespoke Theme & Plugin Engineering, Enterprise WooCommerce Scale
+* **Visual Editors & Frameworks:** Elementor Pro, UX Builder (Flatsome environment)
+
+### 🛠️ Infrastructure & DevOps
+* **Performance Tuning:** Advanced caching strategies, asset pipelines, WP Rocket optimization blueprints
+* **Data Integrity:** Automated server-side backups, granular recovery layers via UpdraftPlus
+* **Environments & Versioning:** Git, GitHub, Linux Hosting Management, cPanel/WHM architecture
+
+---
+
+## 📈 Engineering Analytics
+
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=transparent&hide_border=true&title_color=09090b&icon_color=2563eb&text_color=3f3f46" alt="Zain's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=transparent&hide_border=true&title_color=09090b&text_color=3f3f46" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 📬 Professional Consultation
 
-I am a results-driven **Senior Full-Stack Web Developer** specializing in building scalable architectures, bespoke WordPress ecosystems, and sleek modern JavaScript applications. 
+Are you looking to migrate legacy infrastructure to **Next.js**, architect a high-converting custom **WordPress solution**, or resolve performance bottlenecks on a complex **WooCommerce installation**? Let's connect.
 
-With over **6 years of engineering experience**, my core focus lies in bridging powerful backend logic with impeccably optimized user interfaces. I don't just build layouts—I meticulously refine mobile performance, iron out Core Web Vitals ($LCP$ / $FCP$), ensure technical SEO compliance, and deploy secure infrastructure that helps brands scale effortlessly.
-
----
-
-## 🚀 The Tech Stack
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Modern Frontend</h4>
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next">
-      <br />
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind">
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
-      <br />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS">
-      <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-E34F26?style=flat" alt="HTML/CSS">
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend & CMS</h4>
-      <img src="https://img.shields.io/badge/Core%20PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-      <br />
-      <img src="https://img.shields.io/badge/WordPress%20Core-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress">
-      <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white" alt="WooCommerce">
-      <br />
-      <p style="font-size: 13px; margin-top: 5px; color: #888;">Custom Theme/Plugin Dev • Elementor • UX Builder</p>
-    </td>
-  </tr>
-</table>
-
-### 🛠️ Optimization, SEO & Devops
-* **Performance Remediation:** Advanced asset caching (WP Rocket), mobile performance troubleshooting, critical rendering path tuning.
-* **Technical SEO & Structure:** Semantic HTML5 architecture ($H_1$-$H_3$ accessibility pipelines), metadata injection, compliance mapping.
-* **Server & Security:** Automated site archiving (UpdraftPlus protocols), WHM/cPanel architecture, secure hosting provisioning.
-
----
-
-## 📈 Engineering Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true" alt="Zain's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## 📬 Let's Build Something Impactful
-
-Are you migrating to a fast **Next.js app**, looking to build custom **WordPress themes/plugins**, or trying to fix a heavy **WooCommerce store** layout? Let's connect.
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<p align="center" style="margin-top: 25px;">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Connect%20via%20LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
