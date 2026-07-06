@@ -11,9 +11,7 @@
 
 
 <p align="center">
-
-  <b>Full-Stack Web Developer | WordPress, React.js & Core PHP | Software Engineer</b>
-
+ <b>Full-Stack Web Developer | WordPress, React.js & Core PHP | Software Engineer</b>
 </p>
 
 
