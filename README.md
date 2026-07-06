@@ -13,7 +13,9 @@
   <img src="https://img.shields.io/badge/DELIVERED-100+%20SITES-black?style=flat-square" alt="Production Deployments">
   <img src="https://img.shields.io/badge/PERFORMANCE-CORE%20WEB%20VITALS-black?style=flat-square" alt="Core Web Vitals">
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550" alt="coding gif" style="border-radius: 8px;">
+</p>
 ---
 
 ### ⚡ Professional Profile
