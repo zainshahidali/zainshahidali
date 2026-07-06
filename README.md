@@ -7,7 +7,9 @@
     <img src="https://img.shields.io/badge/Software%20Engineer-00FF66?style=for-the-badge" alt="Title">
   </p>
 </div>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550" alt="coding gif" style="border-radius: 8px;">
+</p>
 <br />
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
