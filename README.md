@@ -79,7 +79,7 @@
 ## 📬 Let's Connect & Collaborate
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN_HERE](https://www.linkedin.com/in/zainshahidali/)" target="_blank">
     <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
