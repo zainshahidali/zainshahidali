@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Zain Ali</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmlndW1oM2V3Ymw4czFhZWFwdG91cWl1d3dmZWw3aDI4bmVxamdzOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qMGOIRnDWIUUM4htkD/giphy.gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXAzMjg3bjZ3NHk0a2Q0MzcyZWlvZ2R5MXJqeHdscDV3YXZjZmllMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5rT8xqVLpB6S6Ej89o/giphy.gif">
 </p>
 
 <p align="center">
