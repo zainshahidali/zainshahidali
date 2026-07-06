@@ -1,45 +1,47 @@
-<p align="center">
-  <samp>
-    <b>ZAIN_ALI</b> // SENIOR FULL-STACK ENGINEER & CMS ARCHITECT
-  </samp>
-</p>
+# 👋 Hey, I'm Zain Ali
 
-<h1 align="center">
-  Building high-performance web ecosystems with pixel precision.
-</h1>
+<img src="https://path-to-your-colorful-animated-header.gif" alt="Zain Ali Header" width="100%">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EXPERIENCE-6+%20YEARS-black?style=flat-square" alt="Experience">
-  <img src="https://img.shields.io/badge/DELIVERED-100+%20SITES-black?style=flat-square" alt="Production Deployments">
-  <img src="https://img.shields.io/badge/PERFORMANCE-CORE%20WEB%20VITALS-black?style=flat-square" alt="Core Web Vitals">
+  <b>Full-Stack Web Developer | WordPress, React.js & Core PHP | Software Engineer</b>
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550" alt="coding gif" style="border-radius: 8px;">
-</p>
----
-
-### ⚡ Professional Profile
-
-I bridge the gap between heavy, enterprise-grade content systems and blazing-fast frontend interfaces. Over the last 6 years, I have engineered custom WordPress frameworks, optimized complex WooCommerce scaling operations, and built modular decoupled applications using React and Next.js. My core focus is absolute runtime performance—remediating mobile Core Web Vitals ($LCP$/$FCP$), mapping technical SEO structures, and implementing secure, automated server lifecycles.
 
 ---
 
-### 🛠️ Core Capabilities
+## 🧑‍💻 **About Me**
 
-```json
-{
-  "frontend": {
-    "frameworks": ["React.js", "Next.js (SSR/SSG)", "JavaScript (ES6+)"],
-    "interfaces": ["TailwindCSS", "Bootstrap", "Semantic HTML5", "Flexbox/Grid"]
-  },
-  "backend_cms": {
-    "environments": ["Core PHP", "MySQL Database Design", "RESTful APIs"],
-    "wordpress": ["Bespoke Themes", "Custom Plugins", "WooCommerce Architecture"],
-    "builders": ["Elementor Pro", "UX Builder / Flatsome Ecosystem"]
-  },
-  "devops_seo": {
-    "optimization": ["WP Rocket", "Advanced Asset Caching", "LCP / FCP Remediation"],
-    "infrastructure": ["cPanel / WHM", "Linux Hosting", "UpdraftPlus Backup Protocols"],
-    "accessibility": ["Semantic Layouts", "Heading Structures (H1-H3 Optimization)"]
-  }
-}
+I'm Zain Ali, a dedicated Full Stack Developer with three years of hands-on experience in building and maintaining web applications. My expertise spans modern frontend frameworks like React, robust backend development with CorePHP, and versatile content management using WordPress.
+
+---
+
+## 🚀 **My Tech Toolbox**
+
+<details open>
+<summary><b>Frontend</b></summary>
+- ⚛️ React.js / Next.js
+- 🎨 TailwindCSS / Bootstrap
+- 💡 JavaScript, HTML, CSS
+</details>
+
+<details open>
+<summary><b>Backend</b></summary>
+- 🐘 Core PHP
+- 🔥 WordPress Theme & Plugin Development
+- 🛠 REST APIs & MySQL
+</details>
+
+<details open>
+<summary><b>CMS / Tools</b></summary>
+- 🌐 WordPress
+- 🧰 cPanel / Hosting / Domain Setup
+- 🔧 Git & GitHub
+</details>
+
+---
+
+## 🎯 **Current Focus**
+- Building modern UI/UX in React
+- Creating custom WordPress solutions
+- Improving PHP & backend efficiency
+
+---
